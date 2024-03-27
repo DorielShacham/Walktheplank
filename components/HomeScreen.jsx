@@ -80,7 +80,7 @@ function HomeScreen() {
                     <Text style={styles.stepsLabel}>Steps</Text>
                 </View>
                 <View style={styles.scoreContainer}>
-                    <Text style={styles.scoreText}>Score: {score}</Text>
+                    <Text style={styles.scoreText}>Coins: {score}</Text>
                 </View>
                 <View style={styles.caloriesContainer}>
                     <Text style={styles.caloriesLabel}>
